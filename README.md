@@ -1,1 +1,1 @@
-Code to demonstrate the speed up gained by using GPUs for Wilson-Dirac operator applications using OpenACC
+C++ code to demonstrate the speed up gained by using GPUs for Wilson-Dirac operator applications using OpenACC. Performed as part of the 2020 RPI Advanced Cyberinfrastructure Training for Modeling Physical Systems program
